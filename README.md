@@ -98,8 +98,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/GataNina-Li/GataBot-MD && cd GataBot-MD
-```
+git clone https://github.com/Panito2/Knights-of-the-Zodiac-MD.git && cd Knights-of-the-Zodiac-MD
 ```bash
 yarn install && npm install
 ```
