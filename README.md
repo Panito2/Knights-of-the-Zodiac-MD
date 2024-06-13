@@ -163,7 +163,7 @@ pm2 start index
 cd
 ```
 ```bash
-cd GataBot-MD
+cd Knights-of-the-Zodiac-MD
 ```
 ```bash
 npm start
