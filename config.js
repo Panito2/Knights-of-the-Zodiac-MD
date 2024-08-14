@@ -15,7 +15,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 global.owner = [
 ["526673044254", 'CREADOR 💖', true],//Knights of the Zodiac-MD 💖🐈
 ["59175409126", 'OWNER 💖', true],
-["59162793728", 'DESARROLLADORA 💖', true],
+["59174469715", 'DESARROLLADORA 💖', true],
 ["593968585383"], 
 ["5492266613038"], 
 ["593968263524"],
