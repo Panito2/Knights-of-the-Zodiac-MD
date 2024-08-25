@@ -219,7 +219,7 @@ ${generateCommand(commandsReport, usedPrefix)}
 
 ${margen}
 
-> 🪅 *GATABOT TEMPORAL* 🪅\n
+> 🪅 *KNIGHTS-OF-THE-ZODIAC-MD TEMPORAL* 🪅\n
 ${generateCommand(commandsLink, usedPrefix)}
 
 ${margen}
